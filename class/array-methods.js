@@ -21,3 +21,4 @@ console.log("shift():", sampleArray.shift());
 console.log(sampleArray);
 
 
+console.log("test")
